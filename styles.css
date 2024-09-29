@@ -30,3 +30,8 @@
     align-items: center;
     cursor: grab;
 }
+.list img{
+    width: 10px;
+    margin: 15px;
+    margin-left: 20px;
+}
