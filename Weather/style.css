@@ -100,3 +100,34 @@ body{
 .weather{
     display: none;
 } */
+ .error{
+    text-align: left;
+    font-size: 10px;
+    font-size:14px;
+    margin-top: 10px;
+    color: red;
+    display: none;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
